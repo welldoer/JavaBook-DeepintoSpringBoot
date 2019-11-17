@@ -3,6 +3,10 @@
 阅读《深入实践 Spring Boot》，学习 SpringBoot 开发技能
   Deep into Spring Boot，陈韶健 著，机械工业出版社，2016.10
 
+[![Build Status](https://travis-ci.com/welldoer/JavaBook-DeepIntoSpringBoot.svg?branch=master)](https://travis-ci.com/welldoer/JavaBook-DeepIntoSpringBoot)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=welldoer_JavaBook-DeepIntoSpringBoot&metric=coverage)](https://sonarcloud.io/dashboard?id=welldoer_JavaBook-DeepIntoSpringBoot)
+
+
 
 
 ## 初始环境准备清单
@@ -19,9 +23,13 @@
 
 ~~6. 基于自动导入的代码，验证环境可用；更新 .gitignore~~
 
-7. 配置 Travis-CI、SonarCloud 环境，添加常用的依赖，补充 Badges 信息
+~~7. 配置基本的 Travis-CI 环境~~
 
-8. 至此，环境准备工作结束
+~~8. 配置 SonarCloud 环境，向 Travis 中添加 SONAR_TOKEN 变量，添加常用的依赖~~
+
+~~9. 补充 Badges 信息~~
+
+~~10. 至此，环境准备工作结束~~
 
 
 
